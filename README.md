@@ -25,7 +25,11 @@
 
 ## 更新
 
-### 2020.09.12：新增：斗鱼添加一个从PC网页端获取直播源的方法，可选线路和清晰度；新增requirements.txt文件；更新代码。
+### 2020.10.17：修复：西瓜直播、YY直播。
+
+2020.09.26：更新：虎牙直播源；注释掉未完成的 YY 直播弹幕功能。
+
+2020.09.12：新增：斗鱼添加一个从PC网页端获取直播源的方法，可选线路和清晰度；新增requirements.txt文件；更新代码。
 
 2020.08.18：更新快手直播源，现在播放链接需要带参数；更新快手直播弹幕，直接用 protobuf 序列化；新增 AcFun、艺气山两个平台的弹幕功能。
 
@@ -108,4 +112,10 @@
 2019.11.03：新增虎牙直播源。
 
 2019.11.02：修复斗鱼预览地址获取的方法；新增未开播房间的判断。
+
+## 鸣谢
+
+感谢 [JetBrains](https://www.jetbrains.com/?from=real-url) 提供的 free JetBrains Open Source license
+
+[![JetBrains-logo](https://i.loli.net/2020/10/03/E4h5FZmSfnGIgap.png)](https://www.jetbrains.com/?from=real-url)
 
